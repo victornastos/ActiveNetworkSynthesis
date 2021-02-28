@@ -1,6 +1,5 @@
 # ActiveNetworkSynthesis
-<list>
+<li>
 Low Pass Chebyshev
-
 Band Pass Chebyshev
 
