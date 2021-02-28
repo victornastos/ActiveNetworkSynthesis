@@ -1,4 +1,4 @@
-# ActiveNetworkSynthesis
+# Active Network Synthesis
 #### Project for Active Network Synthesis using Matlab and Multisim
 * Low Pass Chebyshev
 * Band Pass Chebyshev
